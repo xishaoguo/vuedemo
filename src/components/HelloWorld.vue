@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>我是一个大大的h1</h1>
+    <h1>我是测试</h1>
   </div>
 </template>
 
